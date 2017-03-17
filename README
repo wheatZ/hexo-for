@@ -1,0 +1,4 @@
+npm install
+npm install hexo-generator-feed --save
+npm install hexo-generator-sitemap --save
+git clone https://github.com/A-limon/pacman.git themes/pacman
